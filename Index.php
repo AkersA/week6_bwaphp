@@ -9,7 +9,7 @@
     <h1>Week 7: md5 assignment</h1>
     <form method="get">
         <label for="userEntry">Enter md5:</label>
-        <input type="text" id="userEntry">
+        <input type="text" name="userEntry" id="userEntry">
         <input type="submit">
     </form>
 
